@@ -1,1 +1,2 @@
 # Snake-game
+A simple Snake Game built using HTML, CSS, and JavaScript. The player controls the snake using arrow keys to eat food, causing the snake to grow longer. The game ends if the snake hits the walls or its own body. This project demonstrates fundamental web development concepts like DOM manipulation, event handling, and dynamic rendering. It’s a fun and interactive way to practice JavaScript and game logic.
